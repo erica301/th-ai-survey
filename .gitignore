@@ -1,2 +1,7 @@
 __pycache__/
 .DS_Store
+
+# Secrets: never committed (security rules in CLAUDE.md)
+.env
+.env.*
+!.env.example
